@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+table,
+td {
+  border: solid 1px;
+}
+.userForm {
+  padding: 10px;
+}
+.formElement {
+  padding-bottom: 5px;
+}
